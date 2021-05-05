@@ -1,1 +1,15 @@
+title: Skyfallen Help Center
+description: Get support for many Skyfallen Services quick and easy way.
+baseurl: "/"
+url: "https://help.skyfallen.org"
+
 remote_theme: pmarsceill/just-the-docs
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "&copy; 2016-2021 <a href='https://skyfallen.org'>Skyfallen</a> - Türkiye - All rights reserved."
+
+
+plugins:
+  - jekyll-seo-tag
