@@ -66,7 +66,19 @@ layout: table_wrappers
       {% endif %}
     </nav>
     <footer class="site-footer">
-       <button class="btn js-toggle-dark-mode">Toggle Dark Mode</button>
+       <button class="btn dm-toggle-js" style="display:block;">Dark Mode</button>
+       <script>
+          const toggleDarkMode = document.querySelector('.dm-toggle-js');
+          jtd.addEvent(toggleDarkMode, 'click', function() {
+              if (jtd.getTheme() === 'dark') {
+                  jtd.setTheme('light');
+                  toggleDarkMode.textContent = 'Light Mode';
+              } else {
+                  jtd.setTheme('dark');
+                  toggleDarkMode.textContent = 'Dark Mode';
+              }
+          });
+      </script>
        &copy; 2016-2021 <a href='https://skyfallen.org'>Skyfallen</a>
     </footer>
   </div>
