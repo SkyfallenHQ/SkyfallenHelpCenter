@@ -3,7 +3,7 @@ description: Get support for many Skyfallen Services quick and easy way.
 baseurl: "/"
 url: "https://help.skyfallen.org"
 
-logo: "https://skyfallen.org/wp-content/uploads/2021/04/SF_IMGVECTOR.png"
+logo: "https://skyfallen.org/wp-content/uploads/2021/05/Skyfallen-Logo_Logo-Text-Inline-e1621854111257.png"
 
 remote_theme: pmarsceill/just-the-docs
 
