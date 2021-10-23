@@ -1,3 +1,6 @@
+--
+nav_order: 1
+--
 # Welcome
 
 Welcome to the newly designed Skyfallen Help Center that consists of articles to help you use Skyfallen services.
