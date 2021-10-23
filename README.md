@@ -9,4 +9,6 @@ The building of this Help Center is still in progress and might be missing infor
 
 Don't forget that you can always create a support case [here](https://sc.skyfallen.org)
 
-### [Skyfallen Cloud Support](/cloud/)
+## Support by Product
+
+### [Skyfallen Cloud](/cloud/)
