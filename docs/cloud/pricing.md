@@ -1,5 +1,5 @@
 ---
-title: Pricing Skyfallen Cloud
+title: Skyfallen Cloud Pricing
 parent: Skyfallen Cloud
 permalink: /cloud/pricing-for-skyfallen-cloud
 ---
