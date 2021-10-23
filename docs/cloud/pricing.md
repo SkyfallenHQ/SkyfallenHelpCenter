@@ -17,7 +17,7 @@ The pricing information as of October 24, 2021 is available on a per-service bas
 |Casual|Tailored for average size friend groups.|125% CPU, 4096 MB RAM, 16384 MB DISK|4.50 GBP|
 |Plus|A perfect option for public servers just starting out.|150% CPU, 6144 MB RAM, 30720 MB DISK|6.00 GBP|
 |Ultimate|Get your dream community with Ultimate performance.|200% CPU, 8192 MB RAM, 51200 MB DISK|8.00 GBP|
-|Extreme|Enjoy the power to the limits.|300% CPU, 16384 MB RAM, 102400 MB DISK|1400 GBP|
+|Extreme|Enjoy the power to the limits.|300% CPU, 16384 MB RAM, 102400 MB DISK|14.00 GBP|
 
 
 
