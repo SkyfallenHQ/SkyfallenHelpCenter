@@ -6,4 +6,3 @@ permalink: /cloud/
 ---
 
 # Skyfallen Cloud Help
-Welcome!
