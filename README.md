@@ -1,6 +1,7 @@
 ---
 nav_order: 1
 permalink: /
+title: Home
 ---
 
 ## Browse Support by Product
