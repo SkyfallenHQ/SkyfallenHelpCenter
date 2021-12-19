@@ -10,7 +10,7 @@ remote_theme: pmarsceill/just-the-docs
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "&copy; 2016-2021 <a href='https://skyfallen.org'>Skyfallen</a> - Türkiye - All rights reserved. <script src=\"//code-eu1.jivosite.com/widget/r3ZZh7UnfX\" async></script>"
+footer_content: "<script src=\"//code-eu1.jivosite.com/widget/r3ZZh7UnfX\" async></script>"
 
 
 plugins:
