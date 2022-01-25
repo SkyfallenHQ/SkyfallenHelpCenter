@@ -10,7 +10,7 @@ permalink: /cloud/what-is-skyfallen-cloud
 ## Hosting Types Supported
 
 - Skyfallen ID Cloud *Under Development*
-- SkyTrac Cloud *Under Development*
+- SkyTrac Cloud *In Beta*
 - Website Hosting *Under Development*
 - DNS Hosting *Under Development*
 - Email Hosting *Under Development*
@@ -21,7 +21,7 @@ permalink: /cloud/what-is-skyfallen-cloud
 | Service Name       | Expected Release Date | Progress | Priority |
 |--------------------|-----------------------|----------|----------|
 | Skyfallen ID Cloud | N/A                   |   N/A    |  2       |
-| SkyTrac Cloud      | 21st of November 2021 | [Click](https://team.skyfallen.cloud/skytrac/share/c0aa3c90-7c0d-4868-b612-a41b164fe989)| 1 |
+| SkyTrac Cloud      | Available in Beta     | [Click](https://team.skyfallen.cloud/skytrac/share/c0aa3c90-7c0d-4868-b612-a41b164fe989)| 1 |
 | Website Hosting    | N/A                   |   N/A    |  3        |
 | DNS Hosting        | N/A                   |   N/A    |  4        |
 | Email Hosting      | N/A                   |   N/A    |  5        |
